@@ -1,4 +1,4 @@
-# Starting with SQLite and data bases
+# Starting with SQL and databases
 These are some problems about starting on DB with sqlite. They are extracted from the CS50x course.
 
 The basics used are: AND, JOIN ON, WHERE, DISTINCT, AVG, ORDER BY, COUNT, LIMIT, LIKE.
