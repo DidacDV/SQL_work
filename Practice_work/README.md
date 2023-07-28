@@ -1,4 +1,5 @@
-These are some problems about starting to use DB with sqlite. They are extracted from CS50x course.
+# Starting with SQLite and data bases
+These are some problems about starting to use DB with sqlite. They are extracted from the CS50x course.
 
 -Songs
 
